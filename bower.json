@@ -1,0 +1,39 @@
+{
+  "name": "photoswipe-vue",
+  "homepage": "",
+  "authors": [
+    "xuxinlong <xinlongxu1991@gmail.com> ()"
+  ],
+  "description": "Touch-friendly image gallery for mobile and desktop. Without dependencies.",
+  "main": [
+    "index.vue",
+    "dist/photoswipe.js",
+    "dist/photoswipe.css",
+    "dist/photoswipe-ui-default.js",
+    "dist/default-skin/default-skin.css",
+    "dist/default-skin/default-skin.png",
+    "dist/default-skin/default-skin.svg",
+    "dist/default-skin/preloader.gif"
+  ],
+  "keywords": [
+    "image",
+    "gallery",
+    "lightbox",
+    "swipe",
+    "touch",
+    "vue"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git:github.com:xuxinlong/photoswipe-vue.git"
+  },
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "website"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "photoswipe-vue",
+  "title": "photoswipe-vue",
+  "description": "",
+  "version": "1.0.0",
+  "homepage": "https://github.com/xuxinlong/photoswipe-vue",
+  "demo": "https://github.com/xuxinlong/photoswipe-vue",
+  "docs": "https://github.com/xuxinlong/photoswipe-vue",
+  "author": {
+    "name": "xuxinlong",
+    "email": "xinlongxu1991@gmail.com",
+    "url": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xuxinlong/photoswipe-vue"
+  },
+  "bugs": "https://github.com/xuxinlong/photoswipe-vue/issues",
+  "keywords": ["photoswipe","gallery","touch","mobile","vue"],
+}
